@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PPAMP3-Tugasv1</string>
+    <string name="nilai_pertama">Nilai Pertama</string>
+    <string name="nilai_kedua">Nilai Kedua</string>
+    <string name="add">+</string>
+    <string name="hasil">Hasil</string>
+    <string name="title">Pertambahan</string>
+    <string name="constraint_layout">Constraint Layout</string>
+    <string name="cata">cata</string>
+    <string name="catb">catb</string>
+</resources>
